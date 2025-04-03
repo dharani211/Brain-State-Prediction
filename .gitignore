@@ -1,0 +1,4 @@
+HCP_S1200_GroupAvg_v1/
+transformer_fold_all_epo-10_win-30.pth
+transformer_fold_1_epo-10_win-30.pth
+predicted_fmri_series_all.npy
