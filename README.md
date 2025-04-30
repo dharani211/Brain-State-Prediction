@@ -7,3 +7,6 @@ model temporal granularity at multiple scales, aiming to improve predictive accu
 transformer model that adaptively modulates attention mecha-nisms across various temporal scales. The proposed model is expected to achieve lower mean squared error (MSE) and higher
 correlation with true fMRI data, compared to baseline models. Future work will explore personalization of predictions using transfer learning and explainability techniques to provide deeper
 insights into functional connectivity patterns.
+
+For the Project Manual please check below link:
+https://docs.google.com/document/d/1T0j8c8Qw1wXt-2h8eE6TbnL8yjMbZlO_YoPjWHjAMCo/edit?usp=sharing
