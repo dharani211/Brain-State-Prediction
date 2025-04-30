@@ -8,5 +8,9 @@ transformer model that adaptively modulates attention mecha-nisms across various
 correlation with true fMRI data, compared to baseline models. Future work will explore personalization of predictions using transfer learning and explainability techniques to provide deeper
 insights into functional connectivity patterns.
 
+Data set: https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release
+
+https://www.humanconnectome.org/study/hcp-young-adult
+
 For the Project Manual please check below link:
 https://docs.google.com/document/d/1T0j8c8Qw1wXt-2h8eE6TbnL8yjMbZlO_YoPjWHjAMCo/edit?usp=sharing
